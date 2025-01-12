@@ -1,5 +1,7 @@
 # UmaMusumeMME
 Umamusume Shader for MMD
+<br>
+日本語版は[こちら](https://github.com/tsukubagami/UmaMusumeMME/blob/master/README-ja.md)
 
 Model rip by 红白de黑白、无名
 
